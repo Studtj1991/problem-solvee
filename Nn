@@ -1,4 +1,4 @@
 $ mkdir Messenger
 $ cd Messenger
 $ git lfs install
-$ git clone https://github.com/mesibo/messenger-app-ios.git
+i$ git clone https://github.com/mesibo/messenger-app-ios.git
